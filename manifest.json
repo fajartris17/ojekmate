@@ -1,0 +1,15 @@
+{
+  "name": "OjekMate — Pendamping Mitra Ojol",
+  "short_name": "OjekMate",
+  "description": "Aplikasi pendamping kerja driver ojek online dan taksi online: catat order motor/mobil, hitung penghasilan bersih, target harian, dan rawat kendaraan.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#071A1C",
+  "theme_color": "#0B3D3A",
+  "lang": "id",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
